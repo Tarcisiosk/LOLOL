@@ -1,0 +1,47 @@
+.modal-content {
+    background-color: rgb(0, 0, 0)!important;
+    /*border: rgba(230, 255, 0, 0.8);*/
+    border: white;
+    color: #fff;
+    font-family: sans-serif;
+    border-width: medium;
+    border-style: solid;
+    margin-top: 80%;
+}
+
+#dataDialog{
+  overflow:auto;
+}
+.non-class{
+    margin-top: 0%;
+    font-size: 24px;
+    font-weight: 700;
+}
+.bootstrap-dialog-title{
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.close {
+    opacity: 1;
+    color: #FFFFFF;
+}
+
+h1 {
+    margin: 0px;
+}
+.intro .intro-body {
+    display: table-cell;
+     vertical-align: top; 
+}
+
+.minor {
+    font-size: 24px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
